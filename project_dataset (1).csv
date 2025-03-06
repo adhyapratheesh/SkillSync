@@ -1,0 +1,201 @@
+"project_id","project_name","skills_required","team_size"
+1,"Project_001","['Problem Solving', 'CSS', 'Agile', 'Communication']",3
+2,"Project_002","['SQL', 'Cloud Computing', 'CSS']",6
+3,"Project_003","['Networking', 'Agile']",3
+4,"Project_004","['SQL', 'Java', 'CSS']",3
+5,"Project_005","['Problem Solving', 'Networking', 'JavaScript', 'CSS']",2
+6,"Project_006","['C++', 'Leadership', 'JavaScript', 'Machine Learning']",2
+7,"Project_007","['Python', 'Agile', 'Data Analysis', 'Cloud Computing']",5
+8,"Project_008","['Python', 'Java']",4
+9,"Project_009","['Agile', 'Java']",2
+10,"Project_010","['DevOps', 'Python', 'Leadership']",6
+11,"Project_011","['Cloud Computing', 'Scrum', 'Project Management', 'Problem Solving']",4
+12,"Project_012","['Project Management', 'Scrum', 'Data Analysis', 'Communication']",7
+13,"Project_013","['Leadership', 'Java', 'Communication', 'Project Management', 'JavaScript']",2
+14,"Project_014","['Leadership', 'HTML', 'Python', 'JavaScript', 'Machine Learning']",7
+15,"Project_015","['Communication', 'Networking', 'Cloud Computing']",6
+16,"Project_016","['SQL', 'Python', 'Project Management', 'Agile', 'Communication']",2
+17,"Project_017","['Networking', 'Data Analysis', 'Cloud Computing', 'Leadership']",7
+18,"Project_018","['Communication', 'Problem Solving']",5
+19,"Project_019","['Leadership', 'Deep Learning']",6
+20,"Project_020","['HTML', 'DevOps', 'Agile']",2
+21,"Project_021","['Cloud Computing', 'C++', 'Deep Learning']",7
+22,"Project_022","['CSS', 'Networking', 'JavaScript', 'Cloud Computing', 'Data Analysis']",3
+23,"Project_023","['CSS', 'C++', 'JavaScript']",5
+24,"Project_024","['CSS', 'Project Management']",5
+25,"Project_025","['Data Analysis', 'Machine Learning', 'Cloud Computing', 'JavaScript']",7
+26,"Project_026","['Cybersecurity', 'Cloud Computing', 'C++']",7
+27,"Project_027","['Data Analysis', 'Agile', 'C++', 'Project Management']",5
+28,"Project_028","['Cybersecurity', 'Problem Solving', 'Data Analysis', 'Scrum', 'Machine Learning']",2
+29,"Project_029","['C++', 'JavaScript', 'Scrum', 'Project Management']",7
+30,"Project_030","['JavaScript', 'Agile', 'Communication']",3
+31,"Project_031","['Leadership', 'Agile', 'Python', 'Deep Learning']",2
+32,"Project_032","['Leadership', 'Problem Solving', 'Project Management']",4
+33,"Project_033","['DevOps', 'Agile', 'Data Analysis']",2
+34,"Project_034","['Python', 'Cybersecurity', 'Networking', 'Project Management', 'HTML']",4
+35,"Project_035","['Cloud Computing', 'Networking', 'HTML']",6
+36,"Project_036","['HTML', 'Java', 'Project Management', 'Deep Learning']",6
+37,"Project_037","['Machine Learning', 'Agile']",5
+38,"Project_038","['Cloud Computing', 'Deep Learning', 'Leadership']",2
+39,"Project_039","['HTML', 'SQL', 'Data Analysis', 'Java']",3
+40,"Project_040","['Leadership', 'Deep Learning', 'CSS', 'Python', 'Scrum']",4
+41,"Project_041","['Cloud Computing', 'Communication', 'Leadership', 'Cybersecurity', 'C++']",6
+42,"Project_042","['Deep Learning', 'SQL', 'Cybersecurity', 'Leadership']",2
+43,"Project_043","['Project Management', 'Agile', 'Java']",7
+44,"Project_044","['Networking', 'CSS', 'HTML', 'Scrum']",7
+45,"Project_045","['Deep Learning', 'HTML', 'SQL', 'Cybersecurity', 'DevOps']",7
+46,"Project_046","['Communication', 'Agile']",2
+47,"Project_047","['Leadership', 'Problem Solving', 'CSS']",2
+48,"Project_048","['Communication', 'Cloud Computing']",3
+49,"Project_049","['JavaScript', 'DevOps']",7
+50,"Project_050","['Agile', 'Problem Solving', 'HTML', 'Leadership']",3
+51,"Project_051","['JavaScript', 'Data Analysis']",5
+52,"Project_052","['Deep Learning', 'CSS', 'Leadership', 'C++', 'Networking']",7
+53,"Project_053","['Machine Learning', 'Networking', 'Communication', 'Python', 'JavaScript']",2
+54,"Project_054","['JavaScript', 'Cloud Computing']",7
+55,"Project_055","['Python', 'Agile', 'Cloud Computing']",4
+56,"Project_056","['Agile', 'CSS']",5
+57,"Project_057","['Problem Solving', 'Deep Learning', 'HTML', 'JavaScript', 'Project Management']",2
+58,"Project_058","['Leadership', 'Python', 'Scrum']",6
+59,"Project_059","['C++', 'DevOps', 'Cybersecurity', 'JavaScript', 'SQL']",7
+60,"Project_060","['CSS', 'Scrum']",2
+61,"Project_061","['Project Management', 'JavaScript', 'Java', 'HTML', 'SQL']",7
+62,"Project_062","['C++', 'Cybersecurity', 'Machine Learning']",2
+63,"Project_063","['JavaScript', 'DevOps']",4
+64,"Project_064","['Cybersecurity', 'CSS', 'Problem Solving', 'Python']",3
+65,"Project_065","['Java', 'DevOps', 'Deep Learning', 'Networking']",3
+66,"Project_066","['Project Management', 'DevOps', 'Communication', 'Agile', 'SQL']",7
+67,"Project_067","['Java', 'Data Analysis']",2
+68,"Project_068","['HTML', 'Deep Learning', 'SQL']",3
+69,"Project_069","['Agile', 'Communication', 'Machine Learning']",3
+70,"Project_070","['C++', 'Cybersecurity', 'Machine Learning', 'Agile', 'Leadership']",7
+71,"Project_071","['Leadership', 'Networking', 'C++']",4
+72,"Project_072","['HTML', 'Cybersecurity', 'SQL', 'C++', 'Machine Learning']",7
+73,"Project_073","['Communication', 'Agile', 'DevOps']",6
+74,"Project_074","['Problem Solving', 'HTML', 'Project Management']",5
+75,"Project_075","['Python', 'Data Analysis', 'C++', 'Machine Learning', 'JavaScript']",6
+76,"Project_076","['Cybersecurity', 'Problem Solving']",2
+77,"Project_077","['C++', 'Communication', 'Project Management', 'Machine Learning']",3
+78,"Project_078","['Machine Learning', 'Python', 'JavaScript']",5
+79,"Project_079","['Leadership', 'JavaScript', 'Agile']",3
+80,"Project_080","['Agile', 'Cloud Computing', 'JavaScript', 'DevOps']",4
+81,"Project_081","['Cybersecurity', 'Machine Learning', 'JavaScript', 'Java']",3
+82,"Project_082","['Leadership', 'CSS', 'Communication', 'Scrum']",5
+83,"Project_083","['Machine Learning', 'Python', 'DevOps']",7
+84,"Project_084","['HTML', 'Scrum', 'Leadership']",6
+85,"Project_085","['Java', 'Communication', 'Data Analysis', 'Problem Solving']",7
+86,"Project_086","['CSS', 'Networking', 'Communication', 'Agile', 'Deep Learning']",4
+87,"Project_087","['DevOps', 'Data Analysis', 'Deep Learning', 'C++', 'Cybersecurity']",5
+88,"Project_088","['C++', 'Scrum', 'Agile', 'Data Analysis']",2
+89,"Project_089","['Agile', 'Java', 'C++']",7
+90,"Project_090","['Cybersecurity', 'Cloud Computing', 'Python', 'Problem Solving']",7
+91,"Project_091","['Cloud Computing', 'Scrum', 'DevOps']",7
+92,"Project_092","['Leadership', 'Python']",6
+93,"Project_093","['Python', 'Problem Solving', 'Cybersecurity']",7
+94,"Project_094","['Data Analysis', 'DevOps', 'Java', 'Networking']",3
+95,"Project_095","['CSS', 'C++', 'Communication']",3
+96,"Project_096","['Java', 'Problem Solving', 'Cloud Computing', 'Leadership']",3
+97,"Project_097","['JavaScript', 'Project Management', 'Data Analysis', 'Scrum']",4
+98,"Project_098","['Cloud Computing', 'Deep Learning', 'Machine Learning', 'SQL']",2
+99,"Project_099","['SQL', 'Deep Learning', 'DevOps', 'Java', 'Networking']",6
+100,"Project_100","['Java', 'Communication', 'Python', 'Networking', 'Project Management']",4
+101,"Project_101","['JavaScript', 'Python', 'Communication', 'CSS']",5
+102,"Project_102","['Python', 'JavaScript', 'Problem Solving', 'Cloud Computing']",3
+103,"Project_103","['DevOps', 'Scrum']",3
+104,"Project_104","['JavaScript', 'Cloud Computing', 'Python', 'HTML', 'Machine Learning']",3
+105,"Project_105","['Leadership', 'Communication', 'Deep Learning', 'Agile', 'Problem Solving']",3
+106,"Project_106","['JavaScript', 'Networking', 'Agile', 'CSS']",3
+107,"Project_107","['Problem Solving', 'Python', 'Communication', 'SQL']",2
+108,"Project_108","['Deep Learning', 'Java', 'HTML']",5
+109,"Project_109","['Project Management', 'Java', 'CSS', 'SQL', 'Cloud Computing']",7
+110,"Project_110","['JavaScript', 'Problem Solving', 'Cloud Computing', 'Cybersecurity']",7
+111,"Project_111","['Project Management', 'Leadership', 'DevOps']",7
+112,"Project_112","['HTML', 'JavaScript', 'Agile', 'Python', 'Scrum']",3
+113,"Project_113","['DevOps', 'Python', 'Data Analysis', 'Java']",7
+114,"Project_114","['Problem Solving', 'Python', 'Scrum', 'Cloud Computing']",4
+115,"Project_115","['Cloud Computing', 'C++', 'Problem Solving', 'Data Analysis']",6
+116,"Project_116","['DevOps', 'CSS', 'Data Analysis']",4
+117,"Project_117","['Machine Learning', 'Data Analysis']",7
+118,"Project_118","['SQL', 'Cloud Computing', 'JavaScript', 'DevOps', 'CSS']",3
+119,"Project_119","['Data Analysis', 'JavaScript', 'HTML']",5
+120,"Project_120","['Machine Learning', 'SQL']",3
+121,"Project_121","['Python', 'SQL', 'C++', 'Java', 'Leadership']",5
+122,"Project_122","['Data Analysis', 'Scrum', 'Project Management', 'Problem Solving']",5
+123,"Project_123","['DevOps', 'Problem Solving']",7
+124,"Project_124","['Deep Learning', 'JavaScript']",4
+125,"Project_125","['Machine Learning', 'Communication', 'Problem Solving', 'Data Analysis']",4
+126,"Project_126","['CSS', 'Java']",2
+127,"Project_127","['Project Management', 'SQL']",4
+128,"Project_128","['Machine Learning', 'JavaScript', 'Problem Solving', 'CSS', 'Scrum']",5
+129,"Project_129","['Project Management', 'Deep Learning', 'JavaScript', 'Cybersecurity']",7
+130,"Project_130","['Cybersecurity', 'HTML']",4
+131,"Project_131","['Communication', 'Agile', 'DevOps', 'Scrum']",3
+132,"Project_132","['SQL', 'Agile', 'Leadership', 'C++']",2
+133,"Project_133","['Scrum', 'JavaScript', 'Java']",6
+134,"Project_134","['SQL', 'Networking', 'JavaScript']",2
+135,"Project_135","['Deep Learning', 'Cloud Computing', 'SQL', 'HTML']",2
+136,"Project_136","['SQL', 'Problem Solving', 'Cybersecurity']",7
+137,"Project_137","['Cybersecurity', 'Communication', 'Agile', 'Networking']",7
+138,"Project_138","['Problem Solving', 'C++']",5
+139,"Project_139","['DevOps', 'Scrum', 'Python', 'CSS', 'Machine Learning']",7
+140,"Project_140","['Deep Learning', 'Java', 'Agile']",7
+141,"Project_141","['Leadership', 'Cloud Computing', 'Cybersecurity']",6
+142,"Project_142","['CSS', 'Networking']",6
+143,"Project_143","['Cybersecurity', 'Leadership', 'Agile', 'Machine Learning', 'SQL']",3
+144,"Project_144","['CSS', 'Agile']",3
+145,"Project_145","['DevOps', 'Networking']",6
+146,"Project_146","['Deep Learning', 'Data Analysis', 'Scrum', 'Machine Learning']",6
+147,"Project_147","['CSS', 'Data Analysis']",2
+148,"Project_148","['Deep Learning', 'Java', 'HTML']",4
+149,"Project_149","['Machine Learning', 'Java', 'Data Analysis']",3
+150,"Project_150","['Python', 'Communication']",7
+151,"Project_151","['Project Management', 'C++', 'Cybersecurity', 'Machine Learning']",7
+152,"Project_152","['Problem Solving', 'Deep Learning', 'Project Management']",2
+153,"Project_153","['Communication', 'Data Analysis']",7
+154,"Project_154","['CSS', 'Machine Learning', 'Python', 'JavaScript']",7
+155,"Project_155","['Machine Learning', 'Cybersecurity', 'SQL', 'Networking', 'Data Analysis']",4
+156,"Project_156","['SQL', 'Agile', 'Leadership', 'HTML']",5
+157,"Project_157","['Problem Solving', 'Communication', 'HTML']",5
+158,"Project_158","['Cloud Computing', 'CSS']",5
+159,"Project_159","['CSS', 'SQL', 'Cloud Computing']",7
+160,"Project_160","['Deep Learning', 'Python', 'Scrum']",3
+161,"Project_161","['Leadership', 'SQL', 'C++']",3
+162,"Project_162","['Problem Solving', 'Data Analysis']",5
+163,"Project_163","['JavaScript', 'DevOps', 'HTML', 'Python', 'Scrum']",5
+164,"Project_164","['Python', 'JavaScript', 'Scrum', 'Java', 'HTML']",3
+165,"Project_165","['Machine Learning', 'HTML']",7
+166,"Project_166","['Python', 'JavaScript']",6
+167,"Project_167","['C++', 'SQL', 'HTML', 'Cloud Computing']",6
+168,"Project_168","['CSS', 'Deep Learning', 'Project Management', 'Cloud Computing', 'HTML']",3
+169,"Project_169","['Cybersecurity', 'Machine Learning']",7
+170,"Project_170","['Python', 'Java']",2
+171,"Project_171","['JavaScript', 'DevOps', 'Problem Solving', 'HTML']",2
+172,"Project_172","['Python', 'Data Analysis', 'Problem Solving']",5
+173,"Project_173","['Communication', 'Deep Learning', 'Data Analysis']",7
+174,"Project_174","['JavaScript', 'Cloud Computing', 'CSS', 'Scrum', 'Data Analysis']",2
+175,"Project_175","['Communication', 'C++', 'Project Management', 'JavaScript']",4
+176,"Project_176","['Java', 'HTML']",3
+177,"Project_177","['DevOps', 'Project Management', 'CSS', 'Problem Solving', 'HTML']",7
+178,"Project_178","['Scrum', 'Deep Learning', 'Communication', 'JavaScript']",4
+179,"Project_179","['Communication', 'Machine Learning', 'C++', 'Python', 'HTML']",7
+180,"Project_180","['Project Management', 'HTML', 'Leadership']",5
+181,"Project_181","['C++', 'JavaScript', 'Problem Solving', 'Machine Learning', 'HTML']",2
+182,"Project_182","['HTML', 'CSS', 'Leadership', 'Communication']",4
+183,"Project_183","['Problem Solving', 'Cloud Computing', 'Scrum', 'Project Management', 'HTML']",7
+184,"Project_184","['Leadership', 'Problem Solving', 'Cybersecurity']",5
+185,"Project_185","['Cybersecurity', 'Scrum', 'Data Analysis', 'Leadership', 'C++']",6
+186,"Project_186","['DevOps', 'Agile', 'Data Analysis', 'C++', 'Cybersecurity']",4
+187,"Project_187","['SQL', 'Python']",4
+188,"Project_188","['HTML', 'JavaScript', 'Java', 'Communication', 'DevOps']",3
+189,"Project_189","['Networking', 'HTML', 'Cybersecurity', 'Problem Solving']",3
+190,"Project_190","['Data Analysis', 'Java', 'HTML']",2
+191,"Project_191","['Leadership', 'Python', 'Problem Solving']",4
+192,"Project_192","['JavaScript', 'Agile']",2
+193,"Project_193","['Scrum', 'CSS', 'Python', 'HTML', 'Communication']",3
+194,"Project_194","['Data Analysis', 'C++']",2
+195,"Project_195","['HTML', 'CSS', 'Cloud Computing', 'Scrum', 'Deep Learning']",5
+196,"Project_196","['Project Management', 'Networking', 'Python', 'Deep Learning', 'JavaScript']",3
+197,"Project_197","['Java', 'CSS']",6
+198,"Project_198","['Python', 'Leadership', 'Problem Solving']",7
+199,"Project_199","['Cybersecurity', 'Machine Learning', 'DevOps', 'Deep Learning', 'Data Analysis']",5
+200,"Project_200","['Machine Learning', 'C++', 'DevOps']",5
